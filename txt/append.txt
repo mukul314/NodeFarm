@@ -1,0 +1,7 @@
+APPENDIX: Generally, avocados 🥑 are served raw, but some cultivars can be cooked for a short time without becoming bitter.
+
+
+
+<meta name="describe" content="description will be placed here.">
+
+<meta name=”robots” content="some content">
